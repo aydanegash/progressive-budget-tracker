@@ -20,4 +20,4 @@ This application can both work online and offline.
 
 # License
 
-MIT LICENSE
+MIT License
